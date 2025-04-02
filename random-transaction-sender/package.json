@@ -1,0 +1,14 @@
+{
+  "name": "random-transaction-sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ethers": "^6.13.5"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
